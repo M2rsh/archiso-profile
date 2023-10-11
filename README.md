@@ -1,6 +1,8 @@
 # archiso-profile
 Me be bored as hell 👍
 
+Changes: neovim instead of nano (for now)
+
 ## Usage
 Run ```make build``` to build the iso wait and the iso will appear in `build` directory
 
